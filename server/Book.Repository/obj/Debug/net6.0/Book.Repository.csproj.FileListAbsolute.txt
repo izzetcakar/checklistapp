@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\bin\Debug\net6.0\Book.Repository.deps.json
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\bin\Debug\net6.0\Book.Repository.runtimeconfig.json
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\bin\Debug\net6.0\Book.Repository.dll
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\bin\Debug\net6.0\Book.Repository.pdb
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\bin\Debug\net6.0\Book.Core.dll
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\bin\Debug\net6.0\Book.Core.pdb
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.dll
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\refint\Book.Repository.dll
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.pdb
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\Book.Repository.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\BookingApp\Book.Repository\obj\Debug\net6.0\ref\Book.Repository.dll
